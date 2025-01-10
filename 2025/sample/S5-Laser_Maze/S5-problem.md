@@ -19,6 +19,8 @@ In this example, we can count the number of safe tiles to be 32.
 ## Input
 The first line of input will consist of three integers, n, w, and h. n is the number of lasers, and w and h are the width and height of the room in tiles respectively. It is guaranteed that all diagonal lasers have a slope of ±1.
 
+Note that 32-bit integers are not big enough to store the largest results, but 64-bit integers will be.
+
 ## Output
 Output a single integer: the number of tiles which are safe.
 
