@@ -1,0 +1,1 @@
+The answer to the first problem is 99 + 9 = 108, the answer to the second is given by concatenating 99 and 9, giving 999. Similar reasoning gives 2025 for the third problem, giving 108, 999, and 2025, in that order, each on a separate line.

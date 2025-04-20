@@ -1,0 +1,13 @@
+j
+1 9
+a
+1000
+a a b
+a b c
+b c d
+c d e
+d e f
+e f g
+f g h
+g h i
+h i j

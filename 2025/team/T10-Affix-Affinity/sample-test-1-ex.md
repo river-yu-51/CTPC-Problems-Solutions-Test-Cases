@@ -1,0 +1,1 @@
+The shortest possible words that total 22 within the given restrictions have a length of 11. Some words with this property are inworldtion (in = 5, world = 4, tion = 13), inaasdftion (in = 5, a = 2, asdf = 2, tion = 13), and ainasdftion (a = 2, in = 5, asdf = 2, tion = 13).

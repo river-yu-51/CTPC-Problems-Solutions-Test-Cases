@@ -1,0 +1,1 @@
+Even if you ate all the pies, you would only achieve a score of 12<sup>2</sup> + 11<sup>2</sup> = 265, which is lower than the required qualification score of 300. Thus, we output -1.

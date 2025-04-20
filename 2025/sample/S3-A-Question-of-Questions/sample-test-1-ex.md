@@ -1,0 +1,1 @@
+The optimal way to answer questions in this case is to answer the questions how-to-find-slope-of-line? and how-to-do-physics? which would give a total of 8 + 7 = 15 points of value.

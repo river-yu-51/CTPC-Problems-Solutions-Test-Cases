@@ -1,0 +1,7 @@
+40 3 2 1 5 1
+Abxvyz 18
+Cyzzyx 19
+Zvyxa 39
+aZZa 2
+aBB 4
+zxxWWyx 11

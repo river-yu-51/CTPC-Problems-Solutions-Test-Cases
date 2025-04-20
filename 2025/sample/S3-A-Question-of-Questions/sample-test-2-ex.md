@@ -1,0 +1,1 @@
+Both questions require your attention during minute 5 so you can only choose one of them. Since Question2 yields a higher value, we choose Question2 and thus get 21 points of value.

@@ -1,0 +1,4 @@
+Bishop
+2 3
+.oo
+oo.

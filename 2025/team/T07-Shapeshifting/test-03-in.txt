@@ -1,0 +1,4 @@
+Knight
+2 3
+.oo
+oo.

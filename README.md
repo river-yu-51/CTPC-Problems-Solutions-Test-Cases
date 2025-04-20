@@ -1,2 +1,2 @@
 # CTPC
-Canadian Team Programming Competition (CTPC) problems and solutions
+Canadian Team Programming Competition (CTPC) problems, solutions, and test cases

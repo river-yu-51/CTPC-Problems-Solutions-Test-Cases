@@ -1,0 +1,12 @@
+10 5
+wch kza
+kza jti 71
+kza vda 66
+vda jti 95
+kza wch 73
+vda goz 67
+goz goz 7
+wch vda 57
+wch kza 52
+jti goz 46
+vda kza 59

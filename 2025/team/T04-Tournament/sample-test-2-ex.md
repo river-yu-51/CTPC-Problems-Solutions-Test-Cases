@@ -1,0 +1,60 @@
+In this case, losses give more points than wins or draws. The final leaderboard looks like this:
+
+<table>
+    <tr>
+        <td>Placement</td>
+        <td>Team</td>
+        <td>Wins</td>
+        <td>Draws</td>
+        <td>Losses</td>
+        <td>Points</td>
+        <td>Secondary Score</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>e</td>
+        <td>0</td>
+        <td>0</td>
+        <td>4</td>
+        <td>12</td>
+        <td>96</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>d</td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
+        <td>9</td>
+        <td>79</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>b</td>
+        <td>2</td>
+        <td>1</td>
+        <td>1</td>
+        <td>8</td>
+        <td>73</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>a</td>
+        <td>4</td>
+        <td>0</td>
+        <td>0</td>
+        <td>8</td>
+        <td>72</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>c</td>
+        <td>1</td>
+        <td>2</td>
+        <td>1</td>
+        <td>7</td>
+        <td>65</td>
+    </tr>
+</table>
+
+Since there is a unique winner, we do not need to consider secondary scores. e wins the tournament.

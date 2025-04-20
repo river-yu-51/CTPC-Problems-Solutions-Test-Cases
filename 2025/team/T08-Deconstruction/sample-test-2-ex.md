@@ -1,0 +1,1 @@
+The 1000 will require a minimum of 500 detonations to demolish since one detonation does at most 2 damage to a tile. Since detonating the 1000 exactly 500 times clears the whole building, we output 500.

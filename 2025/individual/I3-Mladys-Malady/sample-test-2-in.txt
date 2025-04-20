@@ -1,0 +1,8 @@
+pumpkinJuice
+1 4
+tinyPumpkin
+15
+tinyPumpkin tinyPumpkin smallPumpkin
+smallPumpkin smallPumpkin mediumPumpkin
+mediumPumpkin mediumPumpkin largePumpkin
+largePumpkin largePumpkin pumpkinJuice

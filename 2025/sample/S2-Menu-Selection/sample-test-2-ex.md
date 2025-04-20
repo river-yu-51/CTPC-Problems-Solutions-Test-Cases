@@ -1,0 +1,1 @@
+Choosing the big macs with weights 4 and 9 will ensure the largest possible combined weight, which is 13.

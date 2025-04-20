@@ -1,0 +1,8 @@
+6 4
+Atlanta Dallas
+Atlanta Baltimore 8
+Baltimore Cincinnati 7
+Atlanta Cincinnati 4
+Atlanta Dallas 100
+Cincinnati Dallas 6
+Baltimore Dallas 50

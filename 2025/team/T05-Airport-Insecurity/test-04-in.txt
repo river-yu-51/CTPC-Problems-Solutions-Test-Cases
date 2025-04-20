@@ -1,0 +1,23 @@
+20 10
+pOv ZTA EjG uXY Wve JUP MVl feU sKY aYn
+7 9 10 7 3 2 10 1 10 3
+JUP 45
+feU 24
+EjG 35
+aYn 46
+feU 13
+uXY 38
+EjG 38
+pOv 11
+ZTA 42
+EjG 32
+aYn 26
+uXY 49
+MVl 26
+JUP 16
+pOv 36
+feU 30
+aYn 47
+pOv 39
+pOv 49
+feU 46

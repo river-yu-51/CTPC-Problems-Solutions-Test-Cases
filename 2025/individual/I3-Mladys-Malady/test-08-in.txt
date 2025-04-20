@@ -1,0 +1,33 @@
+a
+1 29
+bc
+1000000000
+aa aa a
+ab ab aa
+ac ac ab
+ad ad ac
+ae ae ad
+af af ae
+ag ag af
+ah ah ag
+ai ai ah
+aj aj ai
+ak ak aj
+al al ak
+am am al
+an an am
+ao ao an
+ap ap ao
+aq aq ap
+ar ar aq
+as as ar
+at at as
+au au at
+av av au
+aw aw av
+ax ax aw
+ay ay ax
+az az ay
+ba ba az
+bb bb ba
+bc bc bb

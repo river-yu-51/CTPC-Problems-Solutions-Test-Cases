@@ -1,0 +1,1 @@
+The answer to the first problem is 1 + 8 = 9, the answer to the second is given by concatenating 1 and 8, giving 18. Similar reasoning gives 10085 for the third problem and 185 for the fourth problem, giving 9, 18, 10085, and 185, in that order, each on a separate line.

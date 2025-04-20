@@ -1,0 +1,1 @@
+The optimal sub-acts to include, in order, are s_o then _ then Lick, where the first _ is replaced by h and the second _ is replaced by e. Thus, there must be at least 2 missing shoes.

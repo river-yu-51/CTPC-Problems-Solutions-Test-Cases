@@ -1,0 +1,10 @@
+22 3 2 4 5 9
+hello 6
+world 4
+asdf 2
+in 5
+a 2
+ing 1
+tion 13
+ed 2
+ier 26

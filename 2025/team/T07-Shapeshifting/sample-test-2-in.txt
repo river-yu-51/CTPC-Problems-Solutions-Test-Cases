@@ -1,0 +1,6 @@
+Rook
+4 9
+.oooooooo
+o.ooooo.o
+oo.oo.ooo
+ooo.oooo.

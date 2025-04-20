@@ -1,0 +1,1 @@
+See problem description - the laser configuration is shown there.

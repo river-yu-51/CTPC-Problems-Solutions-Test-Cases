@@ -1,0 +1,1 @@
+The longest possible consecutive block of orders is the second order to the fourth order (inclusive). These orders combined give 2 badscripts and 5 sculptures.

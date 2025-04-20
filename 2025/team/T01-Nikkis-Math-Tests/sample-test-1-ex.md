@@ -1,0 +1,1 @@
+The test average of this particular student is equal to (80 + 88 + 83 + 99 + 80)/5 = 86. Therefore, the student’s overall grade would be 86 * 0.7 + 95 * 0.3 = 88.7, which rounds to 89.

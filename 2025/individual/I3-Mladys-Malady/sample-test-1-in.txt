@@ -1,0 +1,8 @@
+polypotionJuice
+4 4
+luxweed leeches boomskinSlang myrtlesTears
+4 2 1 9
+luxweed myrtlesTears grassknot
+hair boomskinSlang polypotionJuice
+leeches luxweed hicorn
+myrtlesTears grassknot hair

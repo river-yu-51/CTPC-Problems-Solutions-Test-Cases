@@ -1,0 +1,1 @@
+It is impossible to reach the exit in the given board configuration as the bishop gets trapped in the bottom left corner.

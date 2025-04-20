@@ -1,0 +1,1 @@
+Since you have no coins, they total 0 cents.

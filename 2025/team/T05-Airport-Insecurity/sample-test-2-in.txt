@@ -1,0 +1,6 @@
+3 4
+celery asparagus broccoli cabbage
+5 4 3 2
+broccoli 4
+celery 6
+asparagus 99

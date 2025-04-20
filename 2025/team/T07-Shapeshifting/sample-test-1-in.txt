@@ -1,0 +1,7 @@
+Rook
+5 7
+....o.o
+oo.o.oo
+o.ooo.o
+ooooooo
+...o.o.

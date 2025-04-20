@@ -1,0 +1,1 @@
+The optimal sub-acts to include, in order, are F then _l_ then fel, where both underscores are replaced by a. This would require two as, for a total of 2 missing shoes.

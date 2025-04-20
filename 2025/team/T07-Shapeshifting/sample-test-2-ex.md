@@ -1,0 +1,1 @@
+The cheapest path (in terms of mana) in this case would be first shifting into a bishop, moving southeast 3 units, shifting into a knight, jumping up and to the right, shifting into a knight again, jumping up and to the right again, and finally shifting to a knight one more time and jumping to the exit. This requires 4 shapeshifts and 4 moves, for a total of 4 + 4 = 8 mana.

@@ -1,0 +1,1 @@
+One optimal way to demolish the building is to detonate the 8 four times and the 7 twice. This results in 4 + 2 = 6 detonations required.

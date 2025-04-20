@@ -1,0 +1,1 @@
+With a tolerance level of 8, you could eat every pie except the ones with size 9 and 10, giving you a score of 3<sup>2</sup> + 8<sup>2</sup> + 7<sup>2</sup> + 5<sup>2</sup> + 7<sup>2</sup> + 6<sup>2</sup> = 232. This would not be possible with a tolerance level of 7 since you would not reach a score of 230 without eating the pie of size 8.

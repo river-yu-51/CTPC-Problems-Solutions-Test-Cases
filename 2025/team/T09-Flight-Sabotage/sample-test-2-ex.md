@@ -1,0 +1,1 @@
+Here, we can disable the flight from C to D which makes it impossible to travel from A to F. Therefore, we output -1.

@@ -1,0 +1,11 @@
+9 3
+a c
+a a 15
+a b 16
+a c 17
+b a 18
+b b 19
+b c 20
+c a 21
+c b 22
+c c 23

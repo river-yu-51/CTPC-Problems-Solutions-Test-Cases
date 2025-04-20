@@ -1,0 +1,1 @@
+The test average of this particular student is equal to (4 + 5)/2 = 4.5. Therefore, the student’s overall grade would be 4.5 * 0.7 + 58 * 0.3 = 20.55, which rounds to 21.

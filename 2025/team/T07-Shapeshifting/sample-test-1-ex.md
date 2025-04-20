@@ -1,0 +1,1 @@
+The cheapest path (in terms of mana) from the entrance to the exit is first moving east 3 units, shifting into a bishop, moving southeast 2 units, shifting into a knight, and jumping to the exit. This requires 2 shapeshifts and 3 moves, for a total of 2 + 3 = 5 mana.
